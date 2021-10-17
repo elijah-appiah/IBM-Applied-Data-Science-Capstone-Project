@@ -1,6 +1,6 @@
 # IBM-Applied-Data-Science-Capstone-Project
 
-<img src="https://raw.githubusercontent.com/ADGVLOGS/IBM-DataScience-SpaceX-Capstone/main/logo/bg.png">
+<img src="https://github.com/elijah-appiah/IBM-Applied-Data-Science-Capstone-Project/blob/main/IBM-DataScience-SpaceX-Capstone-main/logo/bg.png">
 
 [![Language grade: Python](https://img.shields.io/lgtm/grade/python/g/ADGVLOGS/IBM-DataScience-SpaceX-Capstone.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/ADGVLOGS/IBM-DataScience-SpaceX-Capstone/context:python)
 <a href="https://colab.research.google.com/github/ADGVLOGS/adgmlclass/blob/main/ADGMLCLASSDemo.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Interactive Demo"/></a>
