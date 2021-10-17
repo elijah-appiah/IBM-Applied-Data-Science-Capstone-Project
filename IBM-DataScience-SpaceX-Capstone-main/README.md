@@ -23,4 +23,3 @@ Elijah Appiah
 ### Acknowledgements 
 
 ##### © Copyright IBM Corporation 1994, 2021.
-##### © ADGSTUDIOS 2021
